@@ -1,5 +1,4 @@
 # MLP-Classifier-on-Iris-Dataset
-# MLP Classifier for Iris Dataset
 
 ## Overview
 
