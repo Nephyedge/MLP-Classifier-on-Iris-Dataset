@@ -18,8 +18,11 @@ Cross-validation scores
 
 ## Parameters
 MLPClassifier:
+
 Hidden Layer Sizes: (10, 10)
+
 Maximum Iterations: 1000
+
 Train-Test Split: 80% training, 20% testing
 
 ## Potential Improvements
